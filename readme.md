@@ -1,4 +1,4 @@
-#Softpampa - Moip Assinaturas PHP
+#Fripixel - Moip Assinaturas PHP
 
 Biblioteca simples de integração com a API de Assinatura da Moip.
 
